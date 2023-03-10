@@ -7,7 +7,7 @@ body {
 
 /* begin header styling */
 .primary-header {
-  text-align: right;; /* This will center the main heading and the main image */
+  text-align: center;; /* This will center the main heading and the main image */
 }
 
 .main-heading {
